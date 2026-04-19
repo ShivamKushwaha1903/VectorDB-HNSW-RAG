@@ -1,0 +1,36 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+a.out
+
+# Build directories
+build/
+bin/
+
+# Python virtualenvs
+.env/
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# IDE files
+.vscode/
+.idea/
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
